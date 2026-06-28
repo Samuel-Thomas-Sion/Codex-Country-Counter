@@ -1,0 +1,8 @@
+{
+  "name": "Chess.com Club Demographics",
+  "description": "Analyzes and ranks the geographic distribution of members in a Chess.com club.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
